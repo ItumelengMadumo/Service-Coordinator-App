@@ -1,0 +1,16 @@
+{
+    "Admin User Profile":
+    [
+        {
+    
+        "Admin_ID":"<ID>",
+        "Admin_Password":"<PASSWORD>",
+        "Admin User":"Name & Surname",
+        "Admin_Email":"<EMAIL>",
+        "Admin_Phone":"0123456789"
+        
+        }
+    ]
+
+    
+}

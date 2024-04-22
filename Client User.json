@@ -1,0 +1,20 @@
+{
+    "Client Info":[
+        {
+            "Client_ID":"Client_ID",
+            "Client Name":"",
+            "Contact Person":"Contact Person",
+            "Client Email":"",
+            "Client Phone":"",
+            "Client Address":"",
+            "Client Machine(s)":"",
+            "Machine Serial Number(s)":"",
+            "Kind of toner it takes":"",
+
+            "Client Issue":"",
+            "Client Issue Date":"",
+            "Client Issue Description":"",
+            "Client Issue Status":""
+        }
+    ]
+}
