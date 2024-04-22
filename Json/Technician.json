@@ -1,0 +1,41 @@
+{
+    "TechnicianProfile":
+    [
+    {
+        
+        
+        "Technician_ID":"1",
+        "Technician":"Name & Surname",
+        "Technician_Email":"<EMAIL>",
+        "Technician_Phone":"0123456789",
+        "Technician_Status":"1",
+        "Technician_Notes":"Notes",
+        
+       
+        
+        "Certifications":
+        [
+        {
+            "Certification1":"Certification1",
+            "Certification2":"Certification2",
+            "Certification3":"Certification3",
+            "Certification4":"Certification4",
+            "Certification5":"Certification5"
+        }],
+
+        "Total Experiance":
+        [ 
+            {
+                "Experiance1":"Experiance1",
+                "Experiance2":"Experiance2",
+                "Experiance3":"Experiance3",
+                "Experiance4":"Experiance4",
+                "Experiance5":"Experiance5"
+            }
+
+        ]
+        
+
+    }
+    ]
+}
